@@ -145,3 +145,4 @@ Avec Docker : `docker compose up --build` (site : :3000, API : :8001).
 - Plusieurs requêtes (profil, commentaires, notifications, envois de fichiers) lisaient un jeton `localStorage.token` inexistant : elles passent toutes par `apiClient`.
 - Messages d'erreur précis du serveur affichés au lieu de messages génériques ; échappement HTML dans les popups de la carte.
 # Travel-Memories
+# Travel-Memories
